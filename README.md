@@ -2,7 +2,7 @@
 
 **Project 1/20**
 
-A simple and aesthetic random quote generator that fetches quotes from an external API and displays them with a stylish UI. Users can view new quotes and tweet them directly.
+A simple and aesthetic random quote generator that displays locally stored quotes with a stylish UI. Users can view new quotes and tweet them directly.
 
 ---
 
