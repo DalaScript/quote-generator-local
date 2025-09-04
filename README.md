@@ -31,8 +31,8 @@ A simple and aesthetic random quote generator that displays locally stored quote
 
 ### 🔗 Links
 
-- [🔴 Live Demo](https://dalascript.github.io/quote-generator/)
-- [🗂️ GitHub Repository](https://github.com/DalaScript/quote-generator)
+- [🔴 Live Demo](https://dalascript.github.io/quote-generator-local/)
+- [🗂️ GitHub Repository](https://github.com/DalaScript/quote-generator-local)
 
 ### 📌 Features
 
