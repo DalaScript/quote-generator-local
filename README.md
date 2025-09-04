@@ -1,4 +1,4 @@
-# Quote Generator | ZTM JS Web Projects Course
+# Quote Generator Local | ZTM JS Web Projects Course
 
 **Project 1/20**
 
@@ -15,6 +15,7 @@ A simple and aesthetic random quote generator that displays locally stored quote
   - [🛠️ Built with](#️-built-with)
 - [🧠 My process](#-my-process)
   - [🗃️ Useful resources](#️-useful-resources)
+  - [🧪 Another Versions](#-another-versions)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -60,6 +61,12 @@ A simple and aesthetic random quote generator that displays locally stored quote
 - [W3Schools - Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
 - [Random Quote API](https://forismatic.com/en/api/)
 - [Fix CORS Error Article](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
+
+### 🧪 Another Versions
+
+- Quote Generator → [View Repository](https://github.com/DalaScript/quote-generator)
+
+- Quote Generator Optional → [View Repository](https://github.com/DalaScript/quote-generator-optional)
 
 ### 🔜 Next Project
 
